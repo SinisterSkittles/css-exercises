@@ -72,10 +72,6 @@ button {
 
 ul {
   display: flex;
-}
-
-li {
-  display: flex;
   list-style-type: none;
 }
 
